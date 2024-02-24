@@ -1,18 +1,10 @@
-## Getting Started
+## Music Guessing Game
+This is a simple Java Swing application for a music guessing game. Users can listen to short snippets of songs and guess their titles. The game keeps track of the user's score and allows them to interact with the application through a graphical user interface.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Features:
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. Play short snippets of songs
+2. Guess the title of the song
+3. Keep track of the user's score
+4. Display correct or wrong answers
+5. Interact with a database to update scores
